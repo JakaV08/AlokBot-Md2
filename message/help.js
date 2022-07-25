@@ -71,7 +71,7 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
 exports.menuall = (sender, prefix, pushname) => {
 	return `
 _*•──•──•──•──•──•──•──•*_
-   *NEOBOT WHATSAPP*
+   *FityBoT WHATSAPP*
   *BAILEYS MULTI DEVICE*
 _*•──•──•──•──•──•──•──•*_
 
@@ -252,7 +252,7 @@ ${TT3} ${stripkiri}Lexxy Official${stripknan}
 ${TT3} ${stripkiri}Penyedia Modules${stripknan}
 ${J3}
 
-`+'\`\`\`® Simple Bot Whatsapp\`\`\`'
+`+'\`\`\`® FityBoT\`\`\`'
 }
 
 exports.rulesnya = (sender, prefix) => {
@@ -286,7 +286,7 @@ Sanksi: *PERMANENT BLOCK*
 
 Jika sudah dipahami rules-nya, silakan ketik *#menu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan Neobot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan FityBoT di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
 Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Neobot
 😖🙏`
@@ -314,10 +314,10 @@ _Jika Minat Chat Owner Ketik #owner_
 exports.donasibot = (sender, prefix) => {
    return `
   ‣ *DONASI BOT*
- ➢ DANA = 08xxxxxxx
- ➢ OVO = 08xxxxxxx
- ➢ PULSA = 08xxxxxxx
- ➢ GOPAY = 08xxxxxxx
+ ➢ DANA = 081335334848
+ ➢ OVO = -
+ ➢ PULSA = 081248009076
+ ➢ GOPAY = 085785694474
  
 Hallo Kak ${ucapanWaktu}
 Beneran Mau Donasi Bot ??
